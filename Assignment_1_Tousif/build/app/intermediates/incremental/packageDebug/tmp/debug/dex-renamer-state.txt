@@ -1,4 +1,0 @@
-#Tue May 30 12:27:46 IST 2023
-base.0=/Users/tousif/Desktop/Flutter/assignment_1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
