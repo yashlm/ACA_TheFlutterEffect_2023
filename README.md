@@ -1,16 +1,8 @@
-# flutter_application_1
+# ACA_TheFlutterEffect_2023
+Here are the details of your first assignment-
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Fork this github repo.
+2. Pull that forked github repo to your working directory which you will initialise on your own computer and clone it inside that directory.
+3. Make a folder of your name.
+4. In that folder, make a folder named Assignment_1_yourname and copy all the contents of your Flutter Project over there.
+5. Push whatever you have done into your forked branch.
