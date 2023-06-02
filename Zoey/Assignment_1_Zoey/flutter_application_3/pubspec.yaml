@@ -1,0 +1,88 @@
+name: flutter_application_3
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.2.1
+
+  google_nav_bar: ^5.0.6
+
+  line_icons: ^2.0.1
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/aestheic.png
+    - assets/images/confident.png
+    - assets/images/focus_affirmation.jpeg
+    - assets/images/Glow_up.jpeg
+    - assets/images/motivation.jpeg
+    - assets/images/Smart.jpeg
+    - assets/images/change1.jpeg
+    - assets/images/change2.jpeg
+    - assets/images/change3.jpeg
+    - assets/images/change4.jpeg
+    - assets/images/change5.png
+    - assets/images/change7.jpeg
+    - assets/images/change8.jpeg
+    - assets/images/change9.jpeg
+    - assets/images/a_meme1.jpeg
+    - assets/images/a_meme2.jpeg
+    - assets/images/a_meme3.jpeg
+    - assets/images/a_meme4.jpeg
+    - assets/images/a_meme5.jpeg
+    - assets/images/a_meme6.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+ 
+  fonts:
+   - family: WishShore
+     fonts:
+        - asset: assets/fonts/WishShore.ttf
+   - family: Jack
+     fonts:
+        - asset: assets/fonts/JAi_____.TTF
+   - family: King
+     fonts:
+        - asset: assets/fonts/KIN668.TTF
+   - family: Apple
+     fonts:
+        - asset: assets/fonts/AppleGaramond.ttf
+   - family: Roboto
+     fonts:
+        - asset: assets/fonts/Roboto-Light.ttf        
