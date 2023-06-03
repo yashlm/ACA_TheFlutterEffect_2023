@@ -25,6 +25,7 @@ class MyHomePage extends StatelessWidget {
     'https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F05%2Fone-piece-world-top-100-global-one-piece-popularity-contest-results-00.jpg?w=960&cbr=1&q=90&fit=max',
     'https://s3.youthkiawaaz.com/wp-content/uploads/2018/08/07192000/AB-De-Villiers-6.jpg',
     'https://lh3.googleusercontent.com/CF0c2_01LQNhsepMUhy7QO31wQrO2i5vOIl2VkY47CFVZnxnor8vnOWV9iG4x-oqom4cwuqJAVidP8rk=w2880-h1200-p-l90-rj',
+    'https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png',
   ];
 
   @override
